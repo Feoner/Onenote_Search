@@ -2,7 +2,7 @@
 This tool will assist in searching through a Onenote Notebook and look for any sensitve informtaion, such as usernames, passwords, tokens etc.
 
 ## Install 
-You will a local copy of the Onenote Notebook.
+You will need a local copy of the Onenote Notebook.
 <br>
  To Download the Notebook locally
   * Open Onenote and select the notebook you will be downloading

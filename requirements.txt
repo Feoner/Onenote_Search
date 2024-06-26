@@ -1,0 +1,4 @@
+PyMuPDF
+re
+pandas
+fpdf
